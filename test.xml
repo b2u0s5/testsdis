@@ -1,0 +1,12 @@
+﻿<rss version="2.0">
+   <channel>
+      <title>Liste des opérateurs</title>
+      <description>SDIS 01</description>
+      <link>http://www.wikihow.com/User:CoffeeLover</link>
+      <item>
+         <title>Operateurs : </title>
+         <description>Antione EXEMPLE, Louis EXEMPLE, Claude EXEMPLE</description>
+         <link>http://www.wikihow.com/Understand-the-Meaning-of-NASCAR-Flags</link>
+      </item>
+   </channel>
+</rss>
